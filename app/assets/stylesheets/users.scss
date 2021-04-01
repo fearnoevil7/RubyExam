@@ -1,0 +1,39 @@
+// Place all the styles related to the Users controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+h1{
+    margin: 0px 0px 160px 0px;
+}
+div{
+    display: inline-block;
+    vertical-align: top;
+}
+input{
+    display: block;
+}
+.register{
+    margin: 0px 0px 0px 223px;
+    border: 3px solid black;
+    height: 430px;
+    width: 340px;
+    padding: 34px 0px 0px 61px;
+}
+.login{
+    margin: 0px 0px 0px 142px;
+    border: 3px solid black;
+    height: 250px;
+    width: 340px;
+    padding: 16px 0px 0px 61px;
+}
+.title{
+    text-align: center;
+    margin: 50px 0px 50px 0px;
+}
+.registerbtn{
+    margin: 16px 0px 0px 127px
+}
+
+.loginbtn{
+    margin: 16px 0px 0px 149px;
+}
